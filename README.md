@@ -1,5 +1,5 @@
-# Array_Functions
-In this repository i wrote some easy Functions for Arrays
+//# Array_Functions
+//In this repository i wrote some easy Functions for Arrays
 
 include <stdio.h>
 #include <stdlib.h>
